@@ -1,0 +1,29 @@
+
+# Python virtual environments
+venv/
+env/
+task2env/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# SQLite database and backups
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+
+# Environment variables and secrets
+.env
+.env.*
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+main_old.py
