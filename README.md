@@ -51,8 +51,8 @@ Yurekan_2/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YUREKAN1/OIBSIP-BMI-Calculator.git
-cd OIBSIP-BMI-Calculator
+git clone https://github.com/YUREKAN1/BMI-Calculator.git
+cd BMI-Calculator
 ```
 
 ### 2. Create a virtual environment
